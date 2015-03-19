@@ -1,1 +1,40 @@
 /* CSS declarations go here */
+.about-me-img
+{
+  max-width: 25%;
+  height: auto;
+}
+
+.btn.tooltipped.center-align.vertical-align
+{
+  z-index: 13;
+}
+
+.contact-pic
+{
+  max-width: 25%;
+  height: auto;
+  border: 2px solid white;
+  border-radius: 100%;
+}
+
+.mdi-content-reply
+{
+  transform: rotateY(180deg);
+}
+
+.skill-pic
+{
+  max-width: 10%;
+  height: auto;
+}
+
+.email-styling
+{
+  font-size: 1.2em;
+}
+
+.row
+{
+  padding-top: 1%;
+}
